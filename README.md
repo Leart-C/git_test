@@ -1,0 +1,1 @@
+This is Leart's first git project!
